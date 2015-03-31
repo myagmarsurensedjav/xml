@@ -1,5 +1,15 @@
 Xml ийг хялбаршуулах шоглоход хялбар болгох зорилготой:
 
+## Installation
+
+```js
+"require": {
+    "selmonal/xml": "v0.0.1"
+}
+```
+
+## Example
+
 ```php
 
 use Selmonal\Xml\Xml;
